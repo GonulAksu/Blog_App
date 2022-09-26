@@ -1,0 +1,15 @@
+.active{
+    color:chartreuse
+}
+.nav{
+    padding: 8px 8px;
+    text-decoration: none;
+    color:white
+}
+.Bloga{
+    color:royalblue;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: uppercase;
+
+}
